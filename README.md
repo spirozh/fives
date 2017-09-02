@@ -8,7 +8,7 @@ a collection of fives is never complete
 
 this is a tool to collect more fives
 
----
+## OUTLINE OF INTERACTION
 
 * a five is selected from the collection of fives
 
