@@ -10,9 +10,9 @@ this is a tool to collect more fives
 
 ## OUTLINE OF INTERACTION
 
-* a five is selected from the collection of fives
+* a five is selected from the collection of fives as an example
 
-* visitor is shown the five as drawn as an example on an HTML5 canvas
+* visitor is shown the example on a clean HTML5 canvas
 
 * visitor then draws a five over the example on the HTML5 canvas
 
@@ -20,7 +20,6 @@ this is a tool to collect more fives
 
 * five is sent to server and stored in the collection
 
----
 
 ## TODO
 
